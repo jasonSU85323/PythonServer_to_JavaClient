@@ -5,6 +5,14 @@ PythonServer to JavaClient
 * 用python寫server
 * 用java寫client
 
+```
+1. client若連線成功，server會回傳I am server
+2. 這時client會傳"I am client"或"2"或"3"給server(請自行在code更改)
+3. server接收後會顯示接收data
+3. 若client傳"4"給server，server會結束服務(註:這是server結束條件，否則不會結束)
+4. 若client傳其他值，server接收後會顯示"all"
+```
+
 ### 執行環境
 * 版本
 	* python 2.7
