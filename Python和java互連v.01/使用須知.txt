@@ -1,0 +1,7 @@
+裡面兩個資料夾
+
+服務端：用python →python_server
+客戶端：用java   →java_client
+
+使用方式放在Github上，請自行閱讀
+https://github.com/jasonSU85323/PythonServer_to_JavaClient.git
