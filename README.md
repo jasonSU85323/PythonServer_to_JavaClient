@@ -33,3 +33,5 @@ PythonServer to JavaClient
 ### 後續
 至於程式上的小變化，我在code裡都有註解  
 剩下就請各位自行發揮囉~
+
+檔案「Python和java互連」後面名子是我寫的版本號碼，數字越大越新。
